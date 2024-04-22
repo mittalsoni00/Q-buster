@@ -120,7 +120,7 @@ const UserSidebar = ({ activepage }) => {
           </Link>
       }
 
-      {
+       {/* {
         activepage === 'address' ?
 
           <div className='s2'>
@@ -141,8 +141,8 @@ const UserSidebar = ({ activepage }) => {
               <span>Address</span>
             </div>
 
-          </Link>
-      }
+          </Link> */}
+      
       {
         activepage === 'legalnotice' ?
 

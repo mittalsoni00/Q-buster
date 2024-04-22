@@ -2,16 +2,22 @@ import React from "react";
 import "./Switch.css"
 import cx from "classnames";
 import { constSelector } from "recoil";
-const Switch =({rounded=false, isToggled, onToggled}) =>{
+const Switch =({rounded=false}) =>{
 
-    const sliderCX=cx('slider', {
+    const Switch=cx('slider', {
         'rounded':rounded
     });
 
-    return( <label className="switch">
-         <input type="checkbox" checked={isToggled} onchange={onToggled}/>
-         <span className={sliderCX}/>
+    return( 
+    <label className="switch">
+         <input type="checkbox" />
+         <span className="slider rounded"/>
         </label>
     );
 };
 export default Switch;
+
+// , isToggled, onToggled
+// checked={isToggled} onChange={onToggled}
+// {sliderCX}
+

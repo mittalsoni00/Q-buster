@@ -54,7 +54,7 @@ const AllProduct = () => {
             "ProductReviews": [
                 {
                     "ReviewId": 1,
-                    "Name": "Harshal Jain",
+                    "Name": "Mahi",
                     "Email": "",
                     "Rating": 5,
                     "Date": "2021-08-01",
@@ -62,7 +62,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 2,
-                    "Name": "Viraj",
+                    "Name": "Mahi",
                     "Email": "",
                     "Rating": 1,
                     "Date": "2021-08-01",
@@ -70,7 +70,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 3,
-                    "Name": "Harshal Jain",
+                    "Name": "Mittal",
                     "Email": "",
                     "Rating": 4,
                     "Date": "2021-08-01",
@@ -125,7 +125,7 @@ const AllProduct = () => {
             "ProductReviews": [
                 {
                     "ReviewId": 1,
-                    "Name": "Harshal Jain",
+                    "Name": "Ruhi",
                     "Email": "",
                     "Rating": 5,
                     "Date": "2021-08-01",
@@ -133,7 +133,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 2,
-                    "Name": "Viraj",
+                    "Name": "Mahi",
                     "Email": "",
                     "Rating": 1,
                     "Date": "2021-08-01",
@@ -141,7 +141,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 3,
-                    "Name": "Harshal Jain",
+                    "Name": "Mittal",
                     "Email": "",
                     "Rating": 4,
                     "Date": "2021-08-01",
@@ -196,7 +196,7 @@ const AllProduct = () => {
             "ProductReviews": [
                 {
                     "ReviewId": 1,
-                    "Name": "Harshal Jain",
+                    "Name": "Ruhi",
                     "Email": "",
                     "Rating": 5,
                     "Date": "2021-08-01",
@@ -204,7 +204,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 2,
-                    "Name": "Viraj",
+                    "Name": "Mahi",
                     "Email": "",
                     "Rating": 1,
                     "Date": "2021-08-01",
@@ -212,7 +212,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 3,
-                    "Name": "Harshal Jain",
+                    "Name": "Mittal",
                     "Email": "",
                     "Rating": 4,
                     "Date": "2021-08-01",
@@ -267,7 +267,7 @@ const AllProduct = () => {
             "ProductReviews": [
                 {
                     "ReviewId": 1,
-                    "Name": "Harshal Jain",
+                    "Name": "Ruhi",
                     "Email": "",
                     "Rating": 5,
                     "Date": "2021-08-01",
@@ -275,7 +275,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 2,
-                    "Name": "Viraj",
+                    "Name": "Mahi",
                     "Email": "",
                     "Rating": 1,
                     "Date": "2021-08-01",
@@ -283,7 +283,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 3,
-                    "Name": "Harshal Jain",
+                    "Name": "Mittal",
                     "Email": "",
                     "Rating": 4,
                     "Date": "2021-08-01",
@@ -338,7 +338,7 @@ const AllProduct = () => {
             "ProductReviews": [
                 {
                     "ReviewId": 1,
-                    "Name": "Harshal Jain",
+                    "Name": "Mittal",
                     "Email": "",
                     "Rating": 5,
                     "Date": "2021-08-01",
@@ -346,7 +346,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 2,
-                    "Name": "Viraj",
+                    "Name": "Mahi",
                     "Email": "",
                     "Rating": 1,
                     "Date": "2021-08-01",
@@ -354,7 +354,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 3,
-                    "Name": "Harshal Jain",
+                    "Name": "Ruhi",
                     "Email": "",
                     "Rating": 4,
                     "Date": "2021-08-01",
@@ -409,7 +409,7 @@ const AllProduct = () => {
             "ProductReviews": [
                 {
                     "ReviewId": 1,
-                    "Name": "Harshal Jain",
+                    "Name": "myname",
                     "Email": "",
                     "Rating": 5,
                     "Date": "2021-08-01",
@@ -417,7 +417,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 2,
-                    "Name": "Viraj",
+                    "Name": "Mittal",
                     "Email": "",
                     "Rating": 1,
                     "Date": "2021-08-01",
@@ -425,7 +425,7 @@ const AllProduct = () => {
                 },
                 {
                     "ReviewId": 3,
-                    "Name": "Harshal Jain",
+                    "Name": "Ruhi ",
                     "Email": "",
                     "Rating": 4,
                     "Date": "2021-08-01",

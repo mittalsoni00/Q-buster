@@ -1,4 +1,4 @@
-.useraddress {
+/* .useraddress {
     margin: 0px;
     padding: 0px;
     width: 100%;
@@ -6,9 +6,9 @@
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
-    align-items: center;
+    /* align-items: center; */
     /* background-color: #f5f5f5; */
-}
+/* }
 
 .addressin {
     width: 100%;
@@ -61,20 +61,20 @@
 
 .useraddress .addnew{
     /* border-top: 1px solid #d0d0d0; */
-    display: flex;
+    /* display: flex;
     width: 100%;
     flex-direction: column;
     padding: 20px;
     /* margin-top: 100px; */
-    align-items: center;
+    /* align-items: center;
 }
 
 
 .useraddress .addnew h1{
     text-align: center;
-}
+} */
 
-.useraddress .addnew button{
+/* .useraddress .addnew button{
     width: 200px;
 }
 
@@ -103,9 +103,9 @@
     font-size: 1.2rem;
     font-weight: 300;
     margin-bottom: 5px;
-}
+} */
 
-.useraddress .form .form-group input{
+/* .useraddress .form .form-group input{
     padding: 10px 20px;
     border: 1px solid rgb(207, 207, 207);
     border-radius: 5px;
@@ -114,10 +114,10 @@
 
 .useraddress .form .form-group input:focus{
     border: 1px solid var(--col1);
-}
+} */
+ 
 
-
-.useraddress .form button{
+/* .useraddress .form button{
     background-color: var(--col1);
     color: white;
     border: none;
@@ -142,11 +142,11 @@
         width: 100%;
         display: flex;
         /* flex-wrap: wrap; */
-        flex-direction: column;
+        /* flex-direction: column;
     }
+     */
     
-    
-    .addressin .address {
+    /* .addressin .address {
         height: auto;
         align-self: center;
         width: 97%;
@@ -176,8 +176,8 @@
         cursor: pointer;
     }
     
-}
-@media (max-width: 900px) {
+} */ 
+/* @media (max-width: 900px) {
     .useraddress .form{
         display: flex;
         flex-direction: column;
@@ -193,4 +193,4 @@
         margin: 10px;
     }
     
-}
+} */ 

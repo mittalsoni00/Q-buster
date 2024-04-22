@@ -70,7 +70,7 @@ const ProductPage = () => {
                     "ProductReviews": [
                         {
                             "ReviewId": 1,
-                            "Name": "Harshal Jain",
+                            "Name": "Mittal ",
                             "Email": "",
                             "Rating": 5,
                             "Date": "2021-08-01",
@@ -78,7 +78,7 @@ const ProductPage = () => {
                         },
                         {
                             "ReviewId": 2,
-                            "Name": "Viraj",
+                            "Name": "Mahi",
                             "Email": "",
                             "Rating": 1,
                             "Date": "2021-08-01",
@@ -86,7 +86,7 @@ const ProductPage = () => {
                         },
                         {
                             "ReviewId": 3,
-                            "Name": "Harshal Jain",
+                            "Name": "Khushi",
                             "Email": "",
                             "Rating": 4,
                             "Date": "2021-08-01",
