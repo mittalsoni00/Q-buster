@@ -78,7 +78,7 @@ const Navbar = ({ reloadnavbar }) => {
                 </Link>
                 <Dropdown>
                     <Dropdown.Toggle variant="" id="dropdown-basic">
-                        Categories
+                        Food Outlets
                     </Dropdown.Toggle>
 
                     <Dropdown.Menu>
@@ -143,7 +143,7 @@ const Navbar = ({ reloadnavbar }) => {
 
                             <li><Dropdown>
                                 <Dropdown.Toggle variant="" id="dropdown-basic">
-                                    Categories
+                                    Food Outlets
                                 </Dropdown.Toggle>
 
                                 <Dropdown.Menu>
