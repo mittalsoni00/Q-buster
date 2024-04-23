@@ -33,14 +33,7 @@ const Navbar = ({ reloadnavbar }) => {
                 <img src={logo} alt='logo' className='logo' />
 
                 <div className='searchbar'>
-                   /* // <input typ="text" placeholder="Search for products and categries" className='search' />
-
-                    // <button>
-                    //     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
-                    //         <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                    //     </svg>
-
-                    // </button>*/
+                   
             <button className='mainbutton1'
              >Order Now</button>
                 </div>
@@ -75,42 +68,9 @@ const Navbar = ({ reloadnavbar }) => {
                 </div>
             </div>
             <div className='s2'>
-               /* // <Link to='/'>
-                //     <a>Home</a>
-                // </Link>
-                // <Dropdown>
-                //     <Dropdown.Toggle variant="" id="dropdown-basic">
-                //         Food Outlets
-                //     </Dropdown.Toggle>
+              
 
-                //     <Dropdown.Menu>
-                //         <Dropdown.Item href="#/action-1">Kathi</Dropdown.Item>
-                //         <Dropdown.Item href="#/action-2">Quench</Dropdown.Item>
-                //         <Dropdown.Item href="#/action-3">Chai-Ok-please</Dropdown.Item>
-                //         <Dropdown.Item href="#/action-3">Nestle Hotspot</Dropdown.Item>
-                //         <Dropdown.Item href="#/action-3">Southern-stories</Dropdown.Item>
-                //         <Dropdown.Item href="#/action-3">M-Block-Mess</Dropdown.Item>
-                //     </Dropdown.Menu>
-                // </Dropdown>
-                // <Link to='/about'>
-                //     <a>About Us</a>
-                // </Link>
-                // <Link to='/contact'>
-                //     <a>Contact Us</a>
-                // </Link>
-                // <Dropdown>
-                //     <Dropdown.Toggle variant="" id="dropdown-basic">
-                //         More
-                //     </Dropdown.Toggle>
-
-                //     <Dropdown.Menu>
-                //         <Dropdown.Item href="/FAQ">FAQ</Dropdown.Item>
-                //         <Dropdown.Item href="/privacypolicy">Privacy Policy</Dropdown.Item>
-                //         <Dropdown.Item href="/termsandconditions">
-                //             Terms & Conditions
-                //         </Dropdown.Item>
-                //     </Dropdown.Menu>
-                // </Dropdown>*/
+              
             </div>
 
             {
