@@ -73,42 +73,42 @@ const Navbar = ({ reloadnavbar }) => {
                 </div>
             </div>
             <div className='s2'>
-                <Link to='/'>
-                    <a>Home</a>
-                </Link>
-                <Dropdown>
-                    <Dropdown.Toggle variant="" id="dropdown-basic">
-                        Food Outlets
-                    </Dropdown.Toggle>
+                // <Link to='/'>
+                //     <a>Home</a>
+                // </Link>
+                // <Dropdown>
+                //     <Dropdown.Toggle variant="" id="dropdown-basic">
+                //         Food Outlets
+                //     </Dropdown.Toggle>
 
-                    <Dropdown.Menu>
-                        <Dropdown.Item href="#/action-1">Kathi</Dropdown.Item>
-                        <Dropdown.Item href="#/action-2">Quench</Dropdown.Item>
-                        <Dropdown.Item href="#/action-3">Chai-Ok-please</Dropdown.Item>
-                        <Dropdown.Item href="#/action-3">Nestle Hotspot</Dropdown.Item>
-                        <Dropdown.Item href="#/action-3">Southern-stories</Dropdown.Item>
-                        <Dropdown.Item href="#/action-3">M-Block-Mess</Dropdown.Item>
-                    </Dropdown.Menu>
-                </Dropdown>
-                <Link to='/about'>
-                    <a>About Us</a>
-                </Link>
-                <Link to='/contact'>
-                    <a>Contact Us</a>
-                </Link>
-                <Dropdown>
-                    <Dropdown.Toggle variant="" id="dropdown-basic">
-                        More
-                    </Dropdown.Toggle>
+                //     <Dropdown.Menu>
+                //         <Dropdown.Item href="#/action-1">Kathi</Dropdown.Item>
+                //         <Dropdown.Item href="#/action-2">Quench</Dropdown.Item>
+                //         <Dropdown.Item href="#/action-3">Chai-Ok-please</Dropdown.Item>
+                //         <Dropdown.Item href="#/action-3">Nestle Hotspot</Dropdown.Item>
+                //         <Dropdown.Item href="#/action-3">Southern-stories</Dropdown.Item>
+                //         <Dropdown.Item href="#/action-3">M-Block-Mess</Dropdown.Item>
+                //     </Dropdown.Menu>
+                // </Dropdown>
+                // <Link to='/about'>
+                //     <a>About Us</a>
+                // </Link>
+                // <Link to='/contact'>
+                //     <a>Contact Us</a>
+                // </Link>
+                // <Dropdown>
+                //     <Dropdown.Toggle variant="" id="dropdown-basic">
+                //         More
+                //     </Dropdown.Toggle>
 
-                    <Dropdown.Menu>
-                        <Dropdown.Item href="/FAQ">FAQ</Dropdown.Item>
-                        <Dropdown.Item href="/privacypolicy">Privacy Policy</Dropdown.Item>
-                        <Dropdown.Item href="/termsandconditions">
-                            Terms & Conditions
-                        </Dropdown.Item>
-                    </Dropdown.Menu>
-                </Dropdown>
+                //     <Dropdown.Menu>
+                //         <Dropdown.Item href="/FAQ">FAQ</Dropdown.Item>
+                //         <Dropdown.Item href="/privacypolicy">Privacy Policy</Dropdown.Item>
+                //         <Dropdown.Item href="/termsandconditions">
+                //             Terms & Conditions
+                //         </Dropdown.Item>
+                //     </Dropdown.Menu>
+                // </Dropdown>
             </div>
 
             {
