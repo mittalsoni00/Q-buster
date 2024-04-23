@@ -35,11 +35,13 @@ const UserProfile = () => {
               <UserSidebar activepage={activepage}/>
             </div>
             <div className='right'>
-              {activepage === 'accountsettings' && <AccountSettings/>}
+            {activepage === 'yourorders' && <YourOrders/>}
               {activepage === 'setbudget' && <SetBudget/>}
               {activepage === 'sharemeal' && <ShareMeal/>}
-              {activepage === 'changepassword' && <ChangePassword/>}
-              {activepage === 'yourorders' && <YourOrders/>}
+             
+              
+              {activepage === 'accountsettings' && <AccountSettings/>}
+ {activepage === 'changepassword' && <ChangePassword/>}
               {activepage === 'address' && <UserAddress/>}
               {activepage === 'legalnotice' && <LegalNotice/>}
             </div>
