@@ -34,9 +34,11 @@ const Navbar = ({ reloadnavbar }) => {
 
                 <div className='searchbar'>
                    
-            <button className='mainbutton1'
-             >Order Now</button>
-                </div>
+           <a href="https://q-buster.vercel.app/">
+  <button className="secondary-button">
+    Order Now <FiArrowRight />
+  </button>
+</a>
 
                 <div className='right'>
                     <div className='cart'>
