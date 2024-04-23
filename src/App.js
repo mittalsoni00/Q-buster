@@ -21,7 +21,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/accountsettings" element={<AccountSettings />} />
         <Route path="/home" element={<Home />} />
         <Route path="/product/:prodid" 
           element={
