@@ -23,7 +23,7 @@ Q-Buster is a food-ordering app specifically designed for university students. S
 
 ### 1️⃣ Clone this awesome repo
 ```bash
-git clone https://github.com/YourUsername/Q-Buster.git
+git clone https://github.com/mittalsoni00/Q-buster.git
 cd Q-Buster
 ```
 
